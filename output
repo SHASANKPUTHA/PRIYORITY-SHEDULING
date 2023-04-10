@@ -1,0 +1,60 @@
+OUTPUT:-
+Enter your name:
+PUTHA
+Enter your status (teacher/student):
+teacher
+Please Enter the book you want that exist's in Libary :
+Book1
+Do you want to continue (y/n)?
+y
+Enter your name:
+siva
+Enter your status (teacher/student):
+student
+Please Enter the book you want that exist's in Libary :
+Book1
+Do you want to continue (y/n)?
+y
+Enter your name:
+sai
+Enter your status (teacher/student):
+student
+Please Enter the book you want that exist's in Libary :
+Book1
+Book not available
+Please Enter the book you want that exist's in Libary :
+Book2
+Do you want to continue (y/n)?
+y
+Enter your name:
+shasank
+Enter your status (teacher/student):
+teacher
+Please Enter the book you want that exist's in Libary :
+Book3
+Do you want to continue (y/n)?
+
+Enter your name:
+harsha
+Enter your status (teacher/student):
+teacher
+Please Enter the book you want that exist's in Libary :
+Book3
+Do you want to continue (y/n)?
+y
+Enter your name:
+mohith
+Enter your status (teacher/student):
+student
+Please Enter the book you want that exist's in Libary :
+Book3
+Do you want to continue (y/n)?
+n
+('PUTHA', 'Book1')
+('shasank', 'Book3')
+('harsha', 'Book3')
+('siva', 'Book1')
+('sai', 'Book2')
+('mohith', 'Book3')
+Average waiting time for teachers: 1.0
+Average waiting time for students: 1.0
